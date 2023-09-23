@@ -57,6 +57,8 @@ Use com cuidado, pois algumas operações podem afetar a integridade dos contêi
 # Licença
 Este projeto é licenciado sob a ```MIT License.```
 
+# Contribuidores
+João Eduardo Busar Pena, rm98243; Rafael Nunes Mendes, 98491; Luiza Barros Hubert, rm97905;
 ---
 
 # Introduction
@@ -108,3 +110,7 @@ Use with caution, as some operations may impact the integrity of Docker containe
 
 # License
 This project is licensed by ```MIT License.```
+
+# Contributors
+
+João Eduardo Busar Pena, rm98243; Rafael Nunes Mendes, rm98491; Luiza Barros Hubert, rm97905;
